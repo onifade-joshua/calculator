@@ -1,0 +1,1 @@
+my website is all about a calculator. i maden use of js for the functioning 
